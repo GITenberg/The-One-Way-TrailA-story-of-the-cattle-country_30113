@@ -1,0 +1,29 @@
+_repo: The-One-Way-TrailA-story-of-the-cattle-country_30113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cullum, Ridgwell
+    alias: Burghard, Sidney Groves
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '5545'
+    url: http://www.gutenberg.org/2009/agents/5545
+description: ''
+gutenberg_issued: '2009-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30113'
+  lccn: '11015861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Fiction'
+- !lcc 'PR'
+title: 'The One-Way Trail: A story of the cattle country'
+url: http://www.gutenberg.org/ebooks/30113
